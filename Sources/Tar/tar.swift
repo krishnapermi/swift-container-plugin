@@ -1,6 +1,6 @@
 //===----------------------------------------------------------------------===//
 //
-// This source file is part of the SwiftCntainerPlugin open source project
+// This source file is part of the SwiftContainerPlugin open source project
 //
 // Copyright (c) 2024 Apple Inc. and the SwiftContainerPlugin project authors
 // Licensed under Apache License v2.0
